@@ -61,10 +61,10 @@ These  are the questions that come up in almost every senior Java and microservi
 When they ask you a coding problem →
 Explain brute force first (“I can solve by checking all substrings, but complexity is O(n²)”). Then give optimized approach (HashMap, sliding window, Kadane’s, etc.). Code cleanly with edge cases (null, empty string, negative numbers).
 
-How to Be Different in Interview
+- How to Be Different in Interview
 Explain trade-offs: Don’t just say “I’ll use Kafka”, explain why Kafka vs RabbitMQ. Use metrics: “Optimized service X, reduced latency by 40%. Think like an architect: Show awareness of security, cost, scaling, and monitoring. Mentor mindset: Drop lines like “In my team, I ensure junior devs follow SOLID and we do design reviews. Finance-specific prep: UBS/MS will ask about low latency, reliability, transactions, and consistency. Be ready with answers around concurrent processing, distributed locks, and high availability.
 
-Mindset
+- Mindset
 Go in with confidence + calmness. At your level, they’re not just looking for a coder but a problem solver & leader.
 Think loud: explain your reasoning, trade-offs, why you chose an approach.
 
