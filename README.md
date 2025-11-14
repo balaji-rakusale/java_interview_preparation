@@ -57,7 +57,7 @@ These  are the questions that come up in almost every senior Java and microservi
 2. JOIN filter employee based on dept they want to know use of grouby and basic concepts
    
 ## ***Imp
-Tip for interview / Coding problem solving :
+- Tip for interview / Coding problem solving :
 When they ask you a coding problem →
 Explain brute force first (“I can solve by checking all substrings, but complexity is O(n²)”). Then give optimized approach (HashMap, sliding window, Kadane’s, etc.). Code cleanly with edge cases (null, empty string, negative numbers).
 
